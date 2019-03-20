@@ -77,3 +77,15 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
+
+
+
+
+## Customer Requests
+
+  * blue, light-blue, green (school colors)
+  * background photos need to be changed
+  * take the jagged edges off the Logo
+  * see hackMHS put a blue/green hue over the intro picture
+  * 2 by 2 button format
+  * date and time on the intro under academiesHacks 
