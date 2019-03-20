@@ -84,8 +84,8 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 ## Customer Requests
 
   * blue, light-blue, green (school colors)
-  * background photos need to be changed
-  * take the jagged edges off the Logo
+  * background photos need to be changed----------------------------------done
+  * take the jagged edges off the Logo------------------------------------done
   * see hackMHS put a blue/green hue over the intro picture
   * 2 by 2 button format
-  * date and time on the intro under academiesHacks 
+  * date and time on the intro under academiesHacks-----------------------d

@@ -41,6 +41,25 @@ This files contents are outlined below.
   color: #FFFFFF;
 }
 
+#buttonGrid{
+  display: grid;
+  height: 200px;
+  width: 380px;
+  grid-template: 50% 50% / 50% 50%;
+  grid-row-gap: 10px;
+}
+#studentSignup{
+  grid-area: 1 / 1 / span 1/ span 1;
+}
+#mentorSignup{
+  grid-area: 1 / 2 / span 1/ span 1;
+}
+#volunteerSignup{
+  grid-area: 2 / 1 / span 1/ span 1;
+}
+#judgeSignup{
+  grid-area: 2 / 2 / span 1/ span 1;
+}
 /* Button */
 .button_all {
   font: 700 18px/59px "Roboto", sans-serif;
