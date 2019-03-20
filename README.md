@@ -87,5 +87,10 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
   * background photos need to be changed----------------------------------done
   * take the jagged edges off the Logo------------------------------------done
   * see hackMHS put a blue/green hue over the intro picture
-  * 2 by 2 button format
-  * date and time on the intro under academiesHacks-----------------------d
+  * 2 by 2 button format--------------------------------------------------done
+  * date and time on the intro under academiesHacks-----------------------done
+
+##TODO
+  * media Queries so the buttons are not messed up when the window resizes
+  * school colors
+  * blue hue over intro image
