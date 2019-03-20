@@ -47,6 +47,8 @@ This files contents are outlined below.
   width: 380px;
   grid-template: 50% 50% / 50% 50%;
   grid-row-gap: 10px;
+  margin-top: 10%;
+  margin-left: 40%;
 }
 #studentSignup{
   grid-area: 1 / 1 / span 1/ span 1;
