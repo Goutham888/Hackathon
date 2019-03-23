@@ -40,7 +40,10 @@ This files contents are outlined below.
   background-color: rgb(83, 179, 201);
   color: #FFFFFF;
 }
-
+button{
+  margin-top: .4em;
+  background-color: rgb(83, 179, 201);
+}
 /*@media(min-width: 500px){
   #buttonGrid{
     display: grid;
