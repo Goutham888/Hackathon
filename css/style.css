@@ -44,55 +44,23 @@ button{
   margin-top: .4em;
   background-color: rgb(83, 179, 201);
 }
-/*@media(min-width: 500px){
-  #buttonGrid{
-    display: grid;
-    height: 100px;
-    width: 380px;
-    grid-template: 50% 50% / 50% 50%;
-    grid-row-gap: 10px;
-    margin-top: 12%;
-    margin-left: 30%;
-  }
-  #studentSignup{
-    grid-area: 1 / 1 / span 1/ span 1;
-  }
-  #mentorSignup{
-    grid-area: 1 / 2 / span 1/ span 1;
-  }
-  #volunteerSignup{
-    grid-area: 2 / 1 / span 1/ span 1;
-  }
-  #judgeSignup{
-    grid-area: 2 / 2 / span 1/ span 1;
-  }
+
+#logoLink{
+  padding: 0;
+  padding-top: 7%;
+  padding-left: 10%;
+  margin: 0;
+  margin-bottom: 10%;
+  width: 200%;
+  height: 130%;
 }
 
-@media (min-width: 960px){
-  #buttonGrid{
-    display: grid;
-    height: 100px;
-    width: 380px;
-    grid-template: 50% 50% / 50% 50%;
-    grid-row-gap: 10px;
-    margin-top: 10%;
-    margin-left: 40%;
-  }
-  #studentSignup{
-    grid-area: 1 / 1 / span 1/ span 1;
-  }
-  #mentorSignup{
-    grid-area: 1 / 2 / span 1/ span 1;
-  }
-  #volunteerSignup{
-    grid-area: 2 / 1 / span 1/ span 1;
-  }
-  #judgeSignup{
-    grid-area: 2 / 2 / span 1/ span 1;
-  }
-}
-*/
+#logoLink{
 
+}
+#main_navbar{
+  background-color: black;
+}
 
 /* Button */
 .button_all {
@@ -365,10 +333,12 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a {
   font: 700 14px/100px "Roboto", sans-serif;
-  color: #222222;
+  color: white;
   text-transform: uppercase;
   padding: 0;
-  padding-left: 30px;
+  padding-top: 25px;
+  padding-right: 45px;
+  padding-left: 45px;
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a:hover, .header_aera .navbar-collapse .navbar-nav.navbar-right li a:focus {
   color: rgb(83, 179, 201);
@@ -2723,6 +2693,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
     font-size: 18px;
     padding-top: 10px;
   }
+
 }
 /*--------------------------------------------------*/
 
