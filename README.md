@@ -8,19 +8,26 @@
     * button color modified to school colors
   * adding more photos to slider
     * got more photos of google, added them in the divs
-    
+
 
 ## Customer Requests
   * blue, light-blue, green (school colors)
   * background photos need to be changed----------------------------------done
   * more background photos need to be added to the slides-----------------done
   * take the jagged edges off the Logo------------------------------------done
+=======
+>>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
+=======
+>>>>>>> 689ae19c699add01f53c677bb59cdcc8e151671f
   * 2 by 2 button format--------------------------------------------------done
   * date and time on the intro under academiesHacks-----------------------done
   * see hackMHS put a blue/green hue over the intro picture
 
 
 ##TODO
+=======
+=======
+>>>>>>> 689ae19c699add01f53c677bb59cdcc8e151671f
   * school colors-------------------------------------------------------------By Sunday
   * blue hue over intro image-------------------------------------------------By Sunday
   * Edit intro text so it contrasts with the background pictures--------------25 min
@@ -31,5 +38,7 @@
     * repurpose featured works for sponsors
     * repurpose contact for hackathon contact stuff
     * brainstorm about the colors, maybe need more bold colors so it's not dull
-  
-  
+
+
+=======
+>>>>>>> 689ae19c699add01f53c677bb59cdcc8e151671f
