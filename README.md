@@ -16,7 +16,10 @@
   * more background photos need to be added to the slides-----------------done
   * take the jagged edges off the Logo------------------------------------done
 <<<<<<< HEAD
+<<<<<<< HEAD
   * see hack MHS put a blue/green hue over the intro picture
+=======
+>>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
 =======
 >>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
   * 2 by 2 button format--------------------------------------------------done
@@ -26,11 +29,14 @@
 
 ##TODO
 <<<<<<< HEAD
+<<<<<<< HEAD
   * media Queries so the buttons are not messed up when the window resizes
   * school colors
   * blue hue over intro image
   * make Academies Hackathon text bigger
 =======
+=======
+>>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
   * school colors-------------------------------------------------------------By Sunday
   * blue hue over intro image-------------------------------------------------By Sunday
   * Edit intro text so it contrasts with the background pictures--------------25 min
@@ -43,4 +49,7 @@
     * brainstorm about the colors, maybe need more bold colors so it's not dull
   
   
+<<<<<<< HEAD
+>>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
+=======
 >>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
