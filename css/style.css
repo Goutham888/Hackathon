@@ -365,10 +365,12 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a {
   font: 700 14px/100px "Roboto", sans-serif;
-  color: #222222;
+  color: white;
   text-transform: uppercase;
   padding: 0;
-  padding-left: 30px;
+  padding-top: 25px;
+  padding-right: 45px;
+  padding-left: 45px;
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a:hover, .header_aera .navbar-collapse .navbar-nav.navbar-right li a:focus {
   color: rgb(83, 179, 201);
@@ -2723,6 +2725,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
     font-size: 18px;
     padding-top: 10px;
   }
+
 }
 /*--------------------------------------------------*/
 
