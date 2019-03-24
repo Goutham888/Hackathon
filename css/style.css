@@ -40,28 +40,60 @@ This files contents are outlined below.
   background-color: rgb(83, 179, 201);
   color: #FFFFFF;
 }
+button{
+  margin-top: .4em;
+  background-color: rgb(83, 179, 201);
+}
+/*@media(min-width: 500px){
+  #buttonGrid{
+    display: grid;
+    height: 100px;
+    width: 380px;
+    grid-template: 50% 50% / 50% 50%;
+    grid-row-gap: 10px;
+    margin-top: 12%;
+    margin-left: 30%;
+  }
+  #studentSignup{
+    grid-area: 1 / 1 / span 1/ span 1;
+  }
+  #mentorSignup{
+    grid-area: 1 / 2 / span 1/ span 1;
+  }
+  #volunteerSignup{
+    grid-area: 2 / 1 / span 1/ span 1;
+  }
+  #judgeSignup{
+    grid-area: 2 / 2 / span 1/ span 1;
+  }
+}
 
-#buttonGrid{
-  display: grid;
-  height: 200px;
-  width: 380px;
-  grid-template: 50% 50% / 50% 50%;
-  grid-row-gap: 10px;
-  margin-top: 10%;
-  margin-left: 40%;
+@media (min-width: 960px){
+  #buttonGrid{
+    display: grid;
+    height: 100px;
+    width: 380px;
+    grid-template: 50% 50% / 50% 50%;
+    grid-row-gap: 10px;
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  #studentSignup{
+    grid-area: 1 / 1 / span 1/ span 1;
+  }
+  #mentorSignup{
+    grid-area: 1 / 2 / span 1/ span 1;
+  }
+  #volunteerSignup{
+    grid-area: 2 / 1 / span 1/ span 1;
+  }
+  #judgeSignup{
+    grid-area: 2 / 2 / span 1/ span 1;
+  }
 }
-#studentSignup{
-  grid-area: 1 / 1 / span 1/ span 1;
-}
-#mentorSignup{
-  grid-area: 1 / 2 / span 1/ span 1;
-}
-#volunteerSignup{
-  grid-area: 2 / 1 / span 1/ span 1;
-}
-#judgeSignup{
-  grid-area: 2 / 2 / span 1/ span 1;
-}
+*/
+
+
 /* Button */
 .button_all {
   font: 700 18px/59px "Roboto", sans-serif;

@@ -1,97 +1,46 @@
-# Product Name
-> Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
-
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-##
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.1.1 3-18-2019
-    * Navbar, jumbotron
-      * ADD: signup buttons in Navbar
-      * CHANGE:  Background Photo in jumbotron
-      * CHANGE: Color Scheme to match customer requirements (blue/teal)
-
-
-* 0.2.1 3-20-2019
-    * Made changes based on CSR #1
-      *  ADD: Logo in left hand corner
-      *  CHANGE: Text under signup buttons
-
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
-
-
-
+## Website URL
+  * https://goutham888.github.io/Hackathon/
+## Change Log
+  * changes mainly to index.html
+  * making the buttons cleaner
+    * buttons were modified from <a> tags to actual <button> tags
+    * buttons were centered on the page (most time consumed)
+    * button color modified to school colors
+  * adding more photos to slider
+    * got more photos of google, added them in the divs
+    
 
 ## Customer Requests
-
   * blue, light-blue, green (school colors)
   * background photos need to be changed----------------------------------done
+  * more background photos need to be added to the slides-----------------done
   * take the jagged edges off the Logo------------------------------------done
+<<<<<<< HEAD
   * see hack MHS put a blue/green hue over the intro picture
+=======
+>>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
   * 2 by 2 button format--------------------------------------------------done
   * date and time on the intro under academiesHacks-----------------------done
+  * see hackMHS put a blue/green hue over the intro picture
+
 
 ##TODO
+<<<<<<< HEAD
   * media Queries so the buttons are not messed up when the window resizes
   * school colors
   * blue hue over intro image
   * make Academies Hackathon text bigger
+=======
+  * school colors-------------------------------------------------------------By Sunday
+  * blue hue over intro image-------------------------------------------------By Sunday
+  * Edit intro text so it contrasts with the background pictures--------------25 min
+  * Edit the rest of the template to match the wireframe----------------------3/4 hrs
+    * change layout of about screen
+    * add day of logistics page
+    * repurpose team page to do faq's maybe
+    * repurpose featured works for sponsors
+    * repurpose contact for hackathon contact stuff
+    * brainstorm about the colors, maybe need more bold colors so it's not dull
+  
+  
+>>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
