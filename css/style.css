@@ -75,10 +75,26 @@ button{
 }
 */
 
-
+.collapsibleFAQ{
+  background-color: red;
+}
 .academiesTitle{
   color: rgb(83, 179, 201);
   font-size: 16em;
+}
+
+
+
+.activeFAQ, .collapsibleFAQ:hover {
+  background-color: #555;
+}
+
+.contentFAQ {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
 }
 /* Button */
 .button_all {

@@ -10,6 +10,7 @@
             color: #fefefe;
         }
     }
+    
     .portfolio_inner_area{
         padding-top: 60px;
         .portfolio_filter{
@@ -198,6 +199,11 @@
 }
 .grid-sizer-2{
     width: 41.66666667%;
+}
+.our_feature_area .feature_row .feature_content .media .media-body .collapsibleFAQ p {
+  font: 400 14px/26px "Roboto", sans-serif;
+  color: red !important;
+  padding-top: 20px;
 }
 /* our_services_tow */
   
