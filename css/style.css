@@ -76,6 +76,7 @@ Main Components
   -moz-transition: opacity 0.2s;
   transition: opacity 0.2s;
   border: 10px solid black;
+  
 }
 .cd-horizontal-timeline::before {
   /* never visible - this is used in jQuery to check the current MQ */
@@ -307,6 +308,7 @@ Main Components
   -webkit-animation-timing-function: ease-in-out;
   -moz-animation-timing-function: ease-in-out;
   animation-timing-function: ease-in-out;
+
 }
 .cd-horizontal-timeline .events-content li.selected {
   /* visible event content */
@@ -525,6 +527,13 @@ button{
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
+}
+
+.card{
+  border: 1px solid black;
+  border-radius: 13px;
+  padding: .9em;
+  margin: 20px;
 }
 /* Button */
 .button_all {
