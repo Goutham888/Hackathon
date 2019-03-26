@@ -50,7 +50,7 @@ button{
   padding-top: 15%;
   padding-left: 20%;
   margin: 0;
-  margin-bottom: 10%; 
+  margin-bottom: 10%;
   width: 130%;
   height: 140%;
 }
@@ -869,7 +869,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   max-width: 100%;
 }
 .our_services_area .portfolio_inner_area .portfolio_item .single_facilities .single_facilities_inner .gallery_hover {
-  background-color: rgba(248, 184, 29, 0.851);
+  background-color: rgba(173, 216, 230, 0.851);
   position: absolute;
   top: 20px;
   left: 20px;
@@ -1292,7 +1292,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .featured_works .featured_gallery .gallery_iner:after {
   content: "";
   position: absolute;
-  background-color: rgba(248, 184, 29, 0.7);
+  background-color: rgba(0, 139, 139, 0.8);
   display: block;
   top: 0;
   left: 0;
@@ -1335,7 +1335,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   margin: 0 auto;
 }
 .featured_works .featured_gallery .gallery_iner .gallery_hover a:hover, .featured_works .featured_gallery .gallery_iner .gallery_hover a:focus {
-  background: #fff;
+  background: blue;
   color: rgb(83, 179, 201);
 }
 .featured_works .featured_gallery .gallery_iner:hover:after, .featured_works .featured_gallery .gallery_iner:focus:after {
