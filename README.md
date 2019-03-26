@@ -11,32 +11,26 @@
 
 
 ## Customer Requests
-  * blue, light-blue, green (school colors)
+  * blue, light-blue, green (school colors)-------------------------------done
   * background photos need to be changed----------------------------------done
   * more background photos need to be added to the slides-----------------done
   * take the jagged edges off the Logo------------------------------------done
-=======
->>>>>>> e99316a1fb9cb099a262a06aa1f3c706999a0457
-=======
->>>>>>> 689ae19c699add01f53c677bb59cdcc8e151671f
-  * 2 by 2 button format--------------------------------------------------done
+  * 2 by 2 button format
   * date and time on the intro under academiesHacks-----------------------done
   * see hackMHS put a blue/green hue over the intro picture
 
 
 ##TODO
-=======
-=======
->>>>>>> 689ae19c699add01f53c677bb59cdcc8e151671f
+
   * school colors-------------------------------------------------------------By Sunday
   * blue hue over intro image-------------------------------------------------By Sunday
   * Edit intro text so it contrasts with the background pictures--------------25 min
   * Edit the rest of the template to match the wireframe----------------------3/4 hrs
-    * change layout of about screen
-    * add day of logistics page
-    * repurpose team page to do faq's maybe
-    * repurpose featured works for sponsors
-    * repurpose contact for hackathon contact stuff
+    * change layout of about screen-------------------------------------------done
+    * add day of logistics page-----------------------------------------------done
+    * repurpose team page to do faq's maybe-----------------------------------done
+    * repurpose featured works for sponsors-----------------------------------done
+    * repurpose contact for hackathon contact stuff---------------------------done
     * brainstorm about the colors, maybe need more bold colors so it's not dull
 
 
