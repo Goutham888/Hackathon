@@ -1292,7 +1292,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .featured_works .featured_gallery .gallery_iner:after {
   content: "";
   position: absolute;
-  background-color: rgba(0, 139, 139, 0.8);
+  background-color: rgba(51, 153, 255, 0.8);
   display: block;
   top: 0;
   left: 0;
