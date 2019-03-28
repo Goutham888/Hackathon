@@ -487,7 +487,7 @@ button{
   height: 140%;
 }
 .titleLogo{
-  width: 900px;
+  width: 700px;
 }
 .introDialogue{
   color: rgb(32, 223, 48) !important;
@@ -533,7 +533,7 @@ button{
   border: 1px solid black;
   border-radius: 13px;
   padding: .9em;
-  margin: 20px;
+  margin: 10px;
 }
 /* Button */
 .button_all {
@@ -917,6 +917,9 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /* header area 2 */
 /*--------------------------------------------------*/
 /* slider_area */
+.introContent{
+  z-index: 5;
+}
 .slider_area .slider_inner .camera_caption {
   height: 100%;
 }
