@@ -472,6 +472,9 @@ Main Components
   background-color: rgb(83, 179, 201);
   color: #FFFFFF;
 }
+.sign-up{
+  display: inline-block;
+}
 button{
   margin-top: .4em;
   background-color: rgb(83, 179, 201);
