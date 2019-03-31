@@ -50,6 +50,7 @@ Primary style
 
 html {
   font-size: 62.5%;
+  scroll-behavior:smooth;
 }
 
 body {
@@ -485,8 +486,8 @@ Main Components
 #moveText{
   position: relative;
   top: 25%;
-  
-  text-align: center; 
+
+  text-align: center;
 }
 #notHome{
   position: relative;
@@ -518,7 +519,7 @@ button{
   width: 700px;
 }
 .introDialogue{
-  color: rgb(32, 223, 48) !important;
+  color: rgb(32, 150, 32) !important;
   font: 400 36px "Oswald", sans-serif;
 }
 @media(max-width: 990px){
