@@ -58,6 +58,7 @@ body {
   font-family: "Fira Sans", sans-serif;
   color: #383838;
   background-color: #f8f8f8;
+
 }
 
 a {
@@ -70,6 +71,32 @@ a {
 Main Components
 
 -------------------------------- */
+.card-img-top{
+  position: relative;
+  padding: 2px;
+  top: -.9em;
+  left: -.9em;
+  width: 14.9em;
+  height: 15em;
+  border-radius: 9px;
+}
+
+.card{
+  border: 1px solid black;
+  border-radius: 9px;
+  padding: .9em;
+  margin: 13px;
+}
+
+.award{
+  margin: 2px;
+}
+
+.card-deck{
+  width: 1400px;
+  background-color: red;
+}
+
 .cd-horizontal-timeline {
   background-color: rgb(81, 238, 141);
   margin: 2em auto;
@@ -559,12 +586,7 @@ button{
   background-color: #f1f1f1;
 }
 
-.card{
-  border: 1px solid black;
-  border-radius: 13px;
-  padding: .9em;
-  margin: 10px;
-}
+
 /* Button */
 .button_all {
   font: 700 18px/59px "Roboto", sans-serif;
