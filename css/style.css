@@ -50,6 +50,7 @@ Primary style
 
 html {
   font-size: 62.5%;
+  scroll-behavior:smooth;
 }
 
 body {
@@ -57,7 +58,7 @@ body {
   font-family: "Fira Sans", sans-serif;
   color: #383838;
   background-color: #f8f8f8;
-  
+
 }
 
 a {
@@ -512,8 +513,8 @@ Main Components
 #moveText{
   position: relative;
   top: 25%;
-  
-  text-align: center; 
+
+  text-align: center;
 }
 #notHome{
   position: relative;
@@ -545,8 +546,7 @@ button{
   width: 700px;
 }
 .introDialogue{
-  display: inline;
-  color: rgb(27, 108, 30) !important;
+  color: rgb(32, 150, 32) !important;
   font: 400 36px "Oswald", sans-serif;
 }
 @media(max-width: 990px){
