@@ -86,6 +86,7 @@ Main Components
   border-radius: 9px;
   padding: .9em;
   margin: 13px;
+  margin-bottom: 40px;
 }
 
 .award{
@@ -94,8 +95,8 @@ Main Components
 
 .card-deck{
   width: 1400px;
-  background-color: red;
 }
+
 
 .cd-horizontal-timeline {
   background-color: rgb(81, 238, 141);
@@ -398,7 +399,7 @@ Main Components
     font-size: 2rem;
   }
   .cd-horizontal-timeline .events-content p {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
   }
 }
 
@@ -518,7 +519,7 @@ Main Components
 }
 #notHome{
   position: relative;
-  top: 950px;
+  top: 47.6em;
 }
 
 ::selection {
@@ -546,7 +547,8 @@ button{
   width: 700px;
 }
 .introDialogue{
-  color: rgb(32, 150, 32) !important;
+  background-color: rgb(83, 179, 201); 
+  color: rgb(119, 231, 73) !important;
   font: 400 36px "Oswald", sans-serif;
 }
 @media(max-width: 990px){
@@ -557,7 +559,7 @@ button{
   .header_aera .navbar-collapse .navbar-nav.navbar-right {
     padding-right: 17.5%;
   }
-}
+} 
 
 #main_navbar{
   background-color: black;
@@ -579,7 +581,7 @@ button{
 }
 
 .contentFAQ {
-  padding: 0 18px;
+  padding: 0 10px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -849,9 +851,9 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   color: white;
   text-transform: uppercase;
   padding: 0;
-  padding-top: 25px;
-  padding-right: 45px;
-  padding-left: 45px;
+  padding-top: 7px;
+  padding-right: 25px;
+  padding-left: 25px;
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a:hover, .header_aera .navbar-collapse .navbar-nav.navbar-right li a:focus {
   color: rgb(83, 179, 201);
